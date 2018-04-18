@@ -1,0 +1,3 @@
+name, DOB, medication, address, location, allergies, conditions, date, time, phone, signature, reqID, SSN
+Patient A,2015-12-01,Penicillin,42 Dean St.,ELABS00201,234,1,2018-04-25,08:12:19,2038883333,Dr. Wong,Rx1,616
+Patient B,2018-04-12,Xanax,32 Institute Rd.,FRETL00201,47,a,2018-04-25,08:14:20,2034443333,Dr. Mario,Rx2,2000
