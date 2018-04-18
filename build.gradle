@@ -2,6 +2,9 @@ group 'Team-R-API'
 version '1.0'
 
 apply plugin: 'java-library'
+apply plugin: 'maven'
+
+group = 'com.github.cs3733teamr'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
